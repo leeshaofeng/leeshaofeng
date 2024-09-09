@@ -104,4 +104,4 @@ deploy:
   type: git
   repo: git@github.com:leeshaofeng/leeshaofeng.git
   branch: gh-pages
-  token: <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>
+  token: '<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>'
